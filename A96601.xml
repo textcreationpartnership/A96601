@@ -1,0 +1,340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for a million-fund and a true expedient for advancing the woollen manufacture Humbly offered to the consideration of the honourable House of Commons. By John Williams, mercht [sic] and trader in wooll.</title>
+            <author>Williams, John, merchant and trader in wool.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96601</idno>
+            <idno type="STC">Wing W2746</idno>
+            <idno type="STC">ESTC R230894</idno>
+            <idno type="EEBO-CITATION">99896069</idno>
+            <idno type="PROQUEST">99896069</idno>
+            <idno type="VID">153764</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96601)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153764)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2377:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for a million-fund and a true expedient for advancing the woollen manufacture Humbly offered to the consideration of the honourable House of Commons. By John Williams, mercht [sic] and trader in wooll.</title>
+                  <author>Williams, John, merchant and trader in wool.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by George Larkin, Jun. at the Half-Moon in New-Street, without Bishopsgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  England --  Early works to 1800.</term>
+               <term>Woolen goods industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153764:1"/>
+            <pb facs="tcp:153764:1"/>
+            <p>PROPOSALS FOR A <hi>Million-Fund</hi> AND A True Expedient For
+Advancing the WOOLLEN MANUFACTURE.</p>
+            <p>
+               <hi>Humbly Offered to the Conſideration of the Honourable</hi>
+Houſe of Commons.</p>
+            <p>By <hi>JOHN WILLIAMS,</hi> Mercht. And Trader in
+<hi>WOOLL.</hi>
+            </p>
+            <p>LONDON: Printed by <hi>George Latkin,</hi> Jun. at the
+<hi>Half-Moon</hi> in <hi>New-Street,</hi> with<g ref="char:EOLhyphen"/>out <hi>Biſhopſgate,</hi>
+1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:153764:2"/>
+            <pb n="3" facs="tcp:153764:2"/>
+            <head>PROPOSALS FOR A Million Fund, &amp;c.</head>
+            <p>
+               <hi>AN Additional Duty, Equivolent to the Charge of Dying, being
+put upon all</hi> Cloth, Searges, Bays, Stufs, Stockens, <hi>and all other
+Goods made of</hi> Wooll, <hi>that ſhall be Expor<g ref="char:EOLhyphen"/>ted White and <g ref="char:V">Ʋ</g>n-dyed
+(except thoſe that ſhall be Exported White<g ref="char:EOLhyphen"/>ned which are perfectly
+Manufactured, and ought to pay but Half Duty) will amount to double the Duty
+which <pb n="4" facs="tcp:153764:3"/>the King receives out of
+all the Pro<g ref="char:EOLhyphen"/>duct of</hi> England, <hi>for Goods Expor<g ref="char:EOLhyphen"/>ted, and will Promote
+Trade, Encou<g ref="char:EOLhyphen"/>rage Navigation, and Advantage the Subject in general; Eaſe them
+of a Conſiderable Tax which they muſt otherwiſe bear, whereas no Subject
+of</hi> England <hi>Loſes a Penny, but Gains by this.</hi>
+            </p>
+            <p>Reaſons for, and Objections a<g ref="char:EOLhyphen"/>gainſt this Duty, and their
+An<g ref="char:EOLhyphen"/>wer.</p>
+            <div n="duty" type="part">
+               <head>Reaſons for it.</head>
+               <p n="1">I. THE King will receive great Sums for the Duty of
+Goods that muſt be Exported <hi>White</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>ndyed,</hi>
+notwithſtanding this Duty, <pb n="5" facs="tcp:153764:3"/>becauſe
+all Dyed Goods are Prohibited in ſome Places abroad.</p>
+               <p n="2">II. The King will Receive great Sums more for duties of
+Dye-Stufs (which are very high) becauſe this duty will occaſion the Dying
+of Great Quantities.</p>
+               <p n="3">III. Merchants, Sea-men, Salters, Dyers, Packers,
+Tillet-makers, and o<g ref="char:EOLhyphen"/>thers, will have a far greater Trade, and will be enabled
+the better to pay other Taxes.</p>
+               <p n="4">IV. It will much Improve Land, by ſowing of
+<hi>Wadd</hi> and <hi>Wild,</hi> two chief ſorts of <hi>Dye</hi>-Stufs that
+grow in <hi>England,</hi> worth now at leaſt Fifteen Pounds <hi>per</hi>
+Tun.</p>
+               <div type="objections">
+                  <head>Great Objections againſt this Duty.</head>
+                  <p>That our Neighbours have a Law, That none of our Manufactury
+ſhall be <pb n="6" facs="tcp:153764:4"/>brought into their
+Dominions Dyed, and theſe Goods are ſo much beaten down already, that the
+Spinners work hard to earn Four Pence a day, and a Wea<g ref="char:EOLhyphen"/>ver works night and day
+to get Five Shillings <hi>per</hi> Week, and one or two of his Children muſt
+help him to Spole and Wind his Quills for him, or elſe he can<g ref="char:EOLhyphen"/>not get ſo
+much; and this Five Shil<g ref="char:EOLhyphen"/>ings is all he hath to pay his Rent, and Maintain, it
+may be, Seven or Eight Perſons; and Fullers ſcarce get 2<hi>
+                        <abbr>d.</abbr>
+per</hi> piece by ſome of theſe Goods, for that they are not half
+Dreſſed; therefore if this be Impoſed, we cannot dye our Goods in
+<hi>England,</hi> and they will not bear the duty to be ſent abroad, ſo
+that we knock the Trade on the head by a Law; and theſe poor Workers will be
+Starved, for they are at this time Petiti<g ref="char:EOLhyphen"/>oning the Parliament from all parts,
+for help againſt decay of Trade, and theſe Goods will not bear ſuch a
+Duty; nei<g ref="char:EOLhyphen"/>ther can it be Impoſed unleſs you will
+<pb n="7" facs="tcp:153764:4"/>Ruine the Nation, for the
+Woollen Manufactury is the Staf of our Land, and a very Tender Regard muſt be
+had to it, for we muſt not burthen nor clog Trade, which is now in a Ballance
+be<g ref="char:EOLhyphen"/>tween us and our Neighbours, and the Scale is ready to turn againſt us;
+and as many more Truths and Falcities, De<g ref="char:EOLhyphen"/>luſions and Lyes as cunning Men can
+in<g ref="char:EOLhyphen"/>vent to get Money, by betraying their Countreys Intereſt,
+<hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="answer">
+                  <head>Anſwered.</head>
+                  <p>It is the Wiſdom of our Neighbours, finding the great
+Advantage ariſing by Dying our Manufacture, to make a Law that no Dyed Goods
+ſhall be Imported into their Dominions.</p>
+                  <p>It muſt neceſſarily then follow, that it is our
+Wiſdom, if we permit our Neighbours to have all the Profitable uſe of the
+Manufacturing of our Goods, to make them pay a Duty for it, equi<g ref="char:EOLhyphen"/>volent
+<pb n="8" facs="tcp:153764:5"/>to the charge of Dying (if we
+can without hindring our Trade) And we can do it, unleſs they Countermine us
+one of theſe Three ways,
+<list>
+                        <item>1. They muſt bring People to wear no Cloaths.
+Or,</item>
+                        <item>2. They muſt wear ſome other ſort of Cloaths.
+Or,</item>
+                        <item>3. They muſt find another way to procure the ſame
+ſorts of Goods as Cheap as from <hi>England,</hi> after this Duty is
+Im<g ref="char:EOLhyphen"/>poſed.</item>
+                     </list>
+                  </p>
+                  <p>If I defend our Nation, and carry theſe Three Points, you
+will allow, That <hi>England</hi> is able to put a Pole Tax upon the whole
+World.</p>
+                  <p n="1">1. The Duty will not ariſe to above One Shilling
+upon a Suit, and People will not go Naked, though their Clothes coſt a little
+dearer.</p>
+                  <p n="2">2. We find Men ſo wedded to Cu<g ref="char:EOLhyphen"/>ſtom, that you have
+a hard matter to beat them out of their old way, in do<g ref="char:EOLhyphen"/>ing any work, though you
+had a new <pb n="9" facs="tcp:153764:5"/>way never ſo much
+eaſier; be ſure then they will have the ſame Cloaths they uſe to wear,
+if they coſt One Shilling dearer, they will not change their Ha<g ref="char:EOLhyphen"/>bits for
+twice the value.</p>
+                  <p n="3">3. They muſt find a way to procure theſe ſame
+ſorts of Goods as Cheap elſe<g ref="char:EOLhyphen"/>where as from <hi>England,</hi> after this
+Duty is Impoſed.</p>
+                  <p>
+                     <hi>Anſw.</hi> Here it happens very luckily, for the
+greateſt part of theſe Goods are the very Cheapeſt that are made in all
+parts of <hi>England,</hi> and yet take up the greateſt quantity of Wooll,
+and are ſuch as <hi>England</hi> doth in a moſt ſpecial manner exceed all
+the World in, as <hi>York-ſhire</hi> Cloth, <hi>Colcheſter</hi> Bays,
+<hi>Exeter</hi> Searges, <hi>viz.</hi> Long and Short Ells, Half Quarters, Ten
+Hundred Yards, and Ranters <hi>Nor<g ref="char:EOLhyphen"/>wich</hi> Cheynes, <hi>&amp;c.</hi> For,</p>
+                  <p n="1">1. By long Experience, and continual Practice, we have
+got ſuch a Slight and Skill to make theſe Goods, as well as all other, that
+no Nation can out do us.</p>
+                  <pb n="10" facs="tcp:153764:6"/>
+                  <p n="2">2. We have greater Plenty of Wooll than any other, and
+therefore it is Cheaper here than in other Countreys, which plainly appears, if
+we conſider that Men adventure their Lives and Eſtates to Tranſport our
+Wooll to other Nations, then it is evident that they are Incouraged by Price,
+or they would not do it.</p>
+                  <p n="3">3. When they give ſuch Incourage<g ref="char:EOLhyphen"/>ment to bring them
+our Wooll, and theſe Goods take up ſuch great Quantities of Wooll, our
+Neighbours will never ſet about making theſe Goods that are ſo Cheap. Now
+let us look back and we ſhall find,</p>
+                  <p>
+                     <hi>Firſt,</hi> That theſe are the Cheapeſt ſorts of
+Goods.</p>
+                  <p>
+                     <hi>Secondly,</hi> That we have the greateſt ſlight and
+skill in making them.</p>
+                  <p>
+                     <hi>Thirdly,</hi> That we have Wooll Cheap<g ref="char:EOLhyphen"/>eſt. And,</p>
+                  <p>
+                     <hi>Fourthly,</hi> Nothing's got by all our Art and
+Skill.</p>
+                  <pb n="11" facs="tcp:153764:6"/>
+                  <p>Sure then our Neighbours cannot find a way to buy theſe
+Goods cheaper than from us, after this Duty is put up<g ref="char:EOLhyphen"/>on them; neither can any
+other Coun<g ref="char:EOLhyphen"/>trey out do us.</p>
+                  <p>But to go through with the Anſwer to the latter part of
+the Objection, <hi>That the Trade is juſt at a Ballance, and the ſcale
+ready to turn againſt us; this is the reaſon we are forced to beat down our
+poor Workmen, that they can ſcarce Live, and 'tis as much as we can do to
+maintain our Trade; we are under ſold in the</hi> Streights,
+<hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> The Trade comes to a Ballance and many
+times turns againſt us, but our own Manufacture are in both ſcales, which
+comes to paſs by this means.</p>
+                  <p>The duties of our Dye Stufs are very high, ſo that our
+Neighbours dye our Goods cheaper than we do, therefore they are carryed to
+other Countreys and Dyed, and then ſent to the <hi>Streights,</hi> where our
+Merchants are under ſold by <pb n="12" facs="tcp:153764:7"/>our
+own Goods: We may thank our <hi>Hambrough</hi> Merchants and others for this:
+Againſt whom have the poor Makers Petitioned many time? but a<g ref="char:EOLhyphen"/>gainſt the
+<hi>Hambrough</hi> Company, whom they did ſet forth, in their Petitions, to
+be Ruiners and Deſtroyers of their Trade.</p>
+                  <p>Now if this Duty be Impoſed, our Merchants will be able to
+Trade again with our own Goods, for they are no other then our own in other
+mens hands, that can ſtand in competition with us; it will then
+neceſſarily follow, that to ſet our Merchants even with Forreigners in
+their Trade, you muſt impoſe this du<g ref="char:EOLhyphen"/>ty on Whites, or take of half the duty
+of Dye-ſtufs, (which is a thing not fit to be named) for we cannot Trade
+un<g ref="char:EOLhyphen"/>leſs we betray our Nation, as ſome do, who ſend out our Goods to be
+Manu<g ref="char:EOLhyphen"/>factured elſe where; and what difference is there between this and the
+ſending abroad our Wooll? It is Spun, Weaved, <pb n="13" facs="tcp:153764:7"/>and
+one third Dreſſed; but Spinners and Weavers are ſlaves to Forreigners,
+and neither King nor Subject get any thing by theſe Goods, which are two
+thirds of the Nations Manufactury, and tends only to our ſhame and
+diſhonour: To whom ſhall the Trade go from us? when it requires all the
+Goods which can be made in the whole World; as for in<g ref="char:EOLhyphen"/>ſtance the laſt year
+it ſwallow'd up all the Wooll in the Nation.</p>
+                  <p>This is not a Burthening but an Ea<g ref="char:EOLhyphen"/>ſing of the Trade: Why
+ſhould not we be able to Sell our own Goods in the <hi>Streights</hi> as
+Cheap as our Neighbours?</p>
+                  <p>We may obſerve from the ſcarcity of Wooll laſt year,
+the great advantage which hath accrued to Trade by the act of burying in
+Woollen; there are near Ten thouſand Pariſhes in <hi>England</hi> and
+<hi>Wales,</hi> and if you Compute one to dye a week out of a Pariſh, one
+with another, and allow four pounds of Ruf Wooll, be<g ref="char:EOLhyphen"/>fore ti's Manufactured, in
+a Burying <pb n="14" facs="tcp:153764:8"/>Suit, 'tis Forty
+Thouſand Pounds of Wool buryed every week, which is about One Thouſand Tun
+a year buryed, and is a great advancement to Trade.</p>
+                  <p>It would be a good anſwer to the Petitions of the Poor
+Trades-men, if we find out another Expedient like to this, and lay a ſmall
+Tax of Two Shilings the year to be paid at Sixpence <hi>per</hi> Quarter by all
+thoſe that wear any other then Flannel Shirts, and if the People ſhould all
+come to this, and avoid the Tax, we may compute it thus, allow five-hundred
+People in a Pariſh, and theſe have two Shirts each every year, and two
+pound of Ruf Wooll muſt be allowed to make a Shirt, which ſhall ſcarce be
+above one when made, ſo that here is four pound of Wooll conſumed more then
+now by five hundred in every Pariſh, which will be a Tun in a year, and ten
+thouſand Pariſhes is Ten thouſand Tun, which will be con<g ref="char:EOLhyphen"/>ſumed in one
+year, but if you will allow but Two hundred and fifty in a Pariſh,
+<pb n="15" facs="tcp:153764:8"/>then 'tis Five Thouſand
+Tun; here you ſee what a Great Conſumption this will make of the Woollen
+Manufacture; this will advance Trade and make goods dear<g ref="char:EOLhyphen"/>er, and then ſhall
+be a quiker Trade and greater price, and quite contrary to the
+<hi>Hambrough</hi> Companies Notion, who would bring Goods for cheapeneſs,
+like dirt, to advance Trade: Thus I have caſt my two Mites into your
+Treaſury, where I leave it to have that uſe made of it which your Wiſdom
+ſhall direct: And Humbly Pray, if this paſs into an Act, that as it will be
+of Mighty Advantage to the Dyers, ſo if this Houſe think fit, for the
+Incouragement of all other Perſons that ſtudy the Promotion of Trade and
+the Welfare of the Engliſh Nation, a Clauſe may be Inſerted, That the
+Dyers pay the Propoſer One Farthing a Piece for all Goods charged by this
+Act, which ſhall be Dyed during his Life, which can be but for a little
+while, he being in the Fiftieth Year of his Age.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153764:9" rendition="simple:additions"/>
+            <pb facs="tcp:153764:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
